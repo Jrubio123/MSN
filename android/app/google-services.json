@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135060099358",
+    "project_id": "msnapp-842ea",
+    "storage_bucket": "msnapp-842ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135060099358:android:2d57ff7a569da677bc390f",
+        "android_client_info": {
+          "package_name": "com.example.msn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbIb_VvjEfiCttgJy9OHOIFrCqC8-07uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
